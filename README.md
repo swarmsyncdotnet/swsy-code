@@ -28,3 +28,5 @@ represents the current state as of 2026-11-15. Website:
 - **Config:** no file to edit. `swarmsync option set <name> <value>`.
 
 Status: design phase. No code yet.
+
+License: MPL-2.0 (see LICENSE).
